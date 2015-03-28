@@ -27,4 +27,4 @@ $ ./po [End Page]
 
 or
 
-$ ./po [Begine Page] [End Page]
+$ ./po [Beginning Page] [End Page]
