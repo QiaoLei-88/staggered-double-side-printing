@@ -22,6 +22,9 @@ This small tool is designed to produce auch a sequence and you can copy and plas
 Usage:
 
 $ bash build.sh
+
 $ ./po [End Page]
+
 or
+
 $ ./po [Begine Page] [End Page]
