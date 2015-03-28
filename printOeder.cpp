@@ -24,7 +24,7 @@ int main(int argc, char* argv[])
     input_parameter >> page_end;
   }
 
-  //Rule out possible dirty inputs
+  // Rule out possible dirty inputs
   if (page_end < 1) page_end = 1;
   if (page_beg < 1) page_beg = 1;
   if (page_beg > page_end)  page_beg = page_end;
