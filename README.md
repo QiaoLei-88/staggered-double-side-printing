@@ -17,3 +17,11 @@ If you print the article out in such a sequence:
 you can look at any three consequtive pages at the same time.
 
 This small tool is designed to produce auch a sequence and you can copy and plaste its out put the Adobe reader's print setting window.
+
+
+Usage:
+
+$ bash build.sh
+$ ./po [End Page]
+or
+$ ./po [Begine Page] [End Page]
