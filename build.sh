@@ -1,2 +1,2 @@
-g++ -o po printOeder.cpp
+g++ -O3 -o po printOeder.cpp
 
