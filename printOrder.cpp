@@ -1,3 +1,7 @@
+// Copy right
+// 2015
+// Qiao Lei
+
 #include<iostream>
 #include<sstream>
 
